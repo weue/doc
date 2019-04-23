@@ -2,6 +2,8 @@
 
 _Windows系统的用户建议使用_`Cmder`_或者_`git bash`_作为命令行工具_
 
+> 基础环境建议**node.js(v8.5.0) weex-toolkit(v1.3.11)**。
+
 1. 安装`NodeJs`，已安装的请忽略
 
    最简单的安装方法就是直接安装[官网的安装包](https://nodejs.org/en/download/)，至于其它的使用包管理或者源码安装的方法请自行搜索。
